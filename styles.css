@@ -1,0 +1,44 @@
+.group{
+  background-color: skyblue;
+  height: 500px;
+  width: 600px;
+  padding: 30px;
+  margin: auto;
+}
+.furemu_timer{
+  margin: auto;
+  height: 250px;
+  width: 500px;
+  background-color:white;
+}
+#time{
+  text-align: center;
+  font-size: 200px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.button_group{
+  margin-top: 30px;
+  text-align:center;
+  background-color:skyblue;
+}
+button {
+  display:inline-block;
+  margin:20px;
+  width:100px;
+  height:100px;
+  border: 0;
+  border-radius: 50px;
+  font-size: 20px;
+  outline:none;
+  
+}
+
+button:hover{
+  background-color: rgb(75, 75, 255);
+}
+
+p{
+  margin: 0;
+}
